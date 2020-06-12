@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309073486818",
+    "firebase_url": "https://gramy-ac2b4.firebaseio.com",
+    "project_id": "gramy-ac2b4",
+    "storage_bucket": "gramy-ac2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309073486818:android:3da72f1840ee2a7e148fbb",
+        "android_client_info": {
+          "package_name": "com.example.gramyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309073486818-e72r1f6jh9gofrp3m048hsr16uc65f7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gramyshare",
+            "certificate_hash": "c550cb62c8409154e215977bbb5777b4450461fb"
+          }
+        },
+        {
+          "client_id": "309073486818-e3ggf4gn5vlvs4mses263bqdretpdmeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwdJglG5eT7OnE2hhx7gfJsmSKdZ-PqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309073486818-e3ggf4gn5vlvs4mses263bqdretpdmeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
